@@ -1,6 +1,6 @@
 {
   "name": "ts-async-eventemitter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Node.JS EventEmitter, with emitAsync support and typings.",
   "main": "lib/main.js",
   "typings": "lib/main.d.ts",
@@ -27,6 +27,7 @@
   },
   "homepage": "https://github.com/DxCx/ts-async-eventemitter#readme",
   "dependencies": {
+    "CBQueue": "0.0.8"
   },
   "devDependencies": {
     "delete-empty": "^0.1.3",
