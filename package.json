@@ -1,6 +1,6 @@
 {
   "name": "ts-async-eventemitter",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Node.JS EventEmitter, with emitAsync support and typings.",
   "main": "lib/main.js",
   "typings": "lib/main.d.ts",
